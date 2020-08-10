@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+h3{
+    font-size: larger;
+    font-weight: bold;
+}
+
+#errors{
+    background-color: rgb(187, 119, 119);
+    height: 100px;
+    display: none;
+    font-size: larger;
+    padding-top: 40px ;
+    padding-left: 20px;
+}
