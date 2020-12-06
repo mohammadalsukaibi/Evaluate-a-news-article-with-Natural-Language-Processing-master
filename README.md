@@ -1,7 +1,7 @@
 # Evaluate News Article With NLP
 ## project objective
 
-the aim of the project is to build a web tool that allows the users to run natural language processing on articles using the aulien api.
+the aim of the project is to build a web tool that allows the users to run natural language processing on articles using the aylien api.
 
 ## Getting started
 
